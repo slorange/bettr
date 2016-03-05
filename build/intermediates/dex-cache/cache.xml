@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Google Drive\Android\Bettr\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\Google Drive\Android\Bettr\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_f681ee92df0760e927b2d6b75b3109f44c99e68e.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android\Bettr\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\Google Drive\Android\Bettr\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_2c4f76636c60d5390415a2172535166568ddf0fb.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android\Bettr\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="D:\Google Drive\Android\Bettr\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_6b19a4a341563a592b0a6347f1f6623eb71208ed.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android\Bettr\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="D:\Google Drive\Android\Bettr\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_29b7891c1643ee33768559163661237a9b7c7a6c.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android\Bettr\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\Google Drive\Android\Bettr\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_c3c83e0d75a6357594d4a2519d683736034daac9.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android\Bettr\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\Google Drive\Android\Bettr\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_22763baa5c3bef4945c919da184ba645533792a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sylvain\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\Google Drive\Android\Bettr\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_7aba1d696889b19423aa9db64246336e2b00a5ba.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\Android\Bettr\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\Google Drive\Android\Bettr\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_cd16f589841123d7f4a07131e5f2b15b9696c75c.jar" />
+    </item>
+
+</items>
